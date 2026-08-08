@@ -22,7 +22,7 @@ The project is structured around three research questions:
 ## 🔬 My Contribution — Q3: Country Energy Profiling via PCA & K-Means
 
 ### Objective
-Identify latent energy profiles across 151 countries and track their structural evolution from 2000 to 2020 using high-dimensional statistical methods.
+Identify latent energy profiles across 148 countries and track their structural evolution from 2000 to 2020 using high-dimensional statistical methods.
 
 ### Methodology
 - **12 variables** selected: electricity access, clean fuels, renewable share, fossil/nuclear/renewable electricity, low-carbon %, energy per capita, energy intensity, CO₂ emissions, GDP per capita, financial flows
